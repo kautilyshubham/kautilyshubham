@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/kautily"><img src="https://api.daily.dev/devcards/550fadcca8ff441f9f1536b7d79eea8e.png?r=ydj" width="400" alt="Shubham Pandey's Dev Card"/></a>
+<a href="https://app.daily.dev/kautily"><img src="https://github.com/kautilyshubham/kautilyshubham/blob/main/devcard.svg" width="400" alt="Shubham Pandey's Dev Card"/></a>
 
 ### Hi there 👋
 
