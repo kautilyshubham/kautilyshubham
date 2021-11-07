@@ -1,7 +1,6 @@
-### Hi there 👋
+<a href="https://app.daily.dev/kautily"><img src="https://api.daily.dev/devcards/550fadcca8ff441f9f1536b7d79eea8e.png?r=ydj" width="400" alt="Shubham Pandey's Dev Card"/></a>
 
-<!--
-**kautilyshubham/kautilyshubham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... Email me at awebxpert@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... Like to play piano and bands.
--->
