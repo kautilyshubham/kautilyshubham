@@ -1,17 +1,21 @@
 ## Hi there, I'm Shubham Pandey 👋
 
- I am a enthusiastic frontend developer. With 3.5+ years of experience and experties in Javascript, React.js, Angular, HTML, CSS. Worked more then 15+ projects are handovered to clients and people are using that.
+Competent software engineer with around 4 years of experience developing front-end applications. Expert in Web and Mobile app
+development particularly with JavaScript and React.
+
+##Skills 
+Javasript, React.js, Next.js, HTML, CSS, SASS, React.native.
  
  ### Currently Goals:
  1. Learning Node.js for full stack development.
  2. Learning AI and ML for solving next gen problems.
  
 
-Here are some ideas to get you started:
+know more about me:
 
-- 🔭 I’m currently working as Frontend Developer.
-- 🌱 I’m currently learning Node.js for Full Stack Developer.
-- 👯 I’m looking to collaborate on
+- 🔭 I’m currently working as Frontend Developer at Infosys.
+- 🌱 I’m currently learning Node.js to become Full Stack Developer.
+- 👯 I’m looking to collaborate on React.js
 - 💬 I will able to help you in Javascript.
 - 📫 For Connecting me mail me at awebxpert@gmail.com or Visit my website https://shubham-pandey.netlify.app/
 - ⚡  Like to play piano and are parts of some bands.
