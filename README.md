@@ -3,7 +3,7 @@
 Competent software engineer with around 4 years of experience developing front-end applications. Expert in Web and Mobile app
 development particularly with JavaScript and React.
 
-##Skills 
+## Skills 
 Javasript, React.js, Next.js, HTML, CSS, SASS, React.native.
  
  ### Currently Goals:
